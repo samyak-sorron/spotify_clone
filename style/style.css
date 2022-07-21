@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    font-family: circular,Helvetica,Arial,sans-serif;
+}
+
+header{
+    color: white;
+    background-color:black;
+    height: 80px;
+}
+
+header div{
+    margin:0 366.5px;
+    padding: 0 15px;
+}
+
+header .logo{
+    padding-right: 1px;
+}
+nav{
+  display: flex;
+}
+nav img{
+  height: 50px;
+  width: 50px;
+  margin-top: 1%;
+}
+ul hover{
+  color :green;
+}
+.menu{
+  color:black;
+  float: right;
+  decoration: none;
+}
